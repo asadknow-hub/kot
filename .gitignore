@@ -1,0 +1,11 @@
+﻿runs/
+*.zip
+*.png
+*.jpg
+*.jpeg
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.log
+.DS_Store
